@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://personalfinance101.net/sitemap.xml
